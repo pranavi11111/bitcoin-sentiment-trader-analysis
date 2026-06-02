@@ -34,7 +34,7 @@ The analysis explores how different sentiment regimes (Extreme Fear, Fear, Neutr
   <img width="870" height="450" alt="image" src="https://github.com/user-attachments/assets/6864cd90-7ed5-4710-a507-2d8e1bfa2bf1" />
  <img width="870" height="450" alt="image" src="https://github.com/user-attachments/assets/48fd091f-f4ed-4ada-83b0-ddb08fcfe4f6" />
  <img width="870" height="450" alt="image" src="https://github.com/user-attachments/assets/2bfd74bd-c403-43d8-8260-9da51c1db16d" />
- <img width="870" height="450" alt="image" src="https://github.com/user-attachments/assets/a91b5f33-0fe2-43bc-9249-21f8ddb02120" />
+ <img width="550" height="330" alt="image" src="https://github.com/user-attachments/assets/a91b5f33-0fe2-43bc-9249-21f8ddb02120" />
  <img width="550" height="330" alt="image" src="https://github.com/user-attachments/assets/1d44953a-a78c-428a-aa44-c9be0e7ecbde" />
 
 ## Tools Used
