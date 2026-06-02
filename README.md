@@ -32,7 +32,7 @@ The analysis explores how different sentiment regimes (Extreme Fear, Fear, Neutr
 * Traders deployed the largest average position sizes during Fear periods.
 * Market sentiment serves as an effective market-regime indicator for analyzing trader behavior.
   <img width="870" height="450" alt="image" src="https://github.com/user-attachments/assets/6864cd90-7ed5-4710-a507-2d8e1bfa2bf1" />
-  <img width="870" height="450" alt="image" src="https://github.com/user-attachments/assets/89708bd3-a871-4f2b-9f80-157dc34b261a" />
+ 
 
 
 
